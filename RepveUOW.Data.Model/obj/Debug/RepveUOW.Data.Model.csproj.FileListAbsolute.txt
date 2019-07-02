@@ -1,0 +1,12 @@
+C:\Users\Mehmet\source\repos\RepveUOW\RepveUOW.Data.Model\bin\Debug\RepveUOW.Data.Model.dll
+C:\Users\Mehmet\source\repos\RepveUOW\RepveUOW.Data.Model\bin\Debug\RepveUOW.Data.Model.pdb
+C:\Users\Mehmet\source\repos\RepveUOW\RepveUOW.Data.Model\obj\Debug\RepveUOW.Data.Model.csprojAssemblyReference.cache
+C:\Users\Mehmet\source\repos\RepveUOW\RepveUOW.Data.Model\obj\Debug\RepveUOW.Data.Model.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\source\repos\RepveUOW\RepveUOW.Data.Model\obj\Debug\RepveUOW.Data.Model.dll
+C:\Users\Mehmet\source\repos\RepveUOW\RepveUOW.Data.Model\obj\Debug\RepveUOW.Data.Model.pdb
+D:\Works\Repos\RepveUOW\RepveUOW.Data.Model\bin\Debug\RepveUOW.Data.Model.dll
+D:\Works\Repos\RepveUOW\RepveUOW.Data.Model\bin\Debug\RepveUOW.Data.Model.pdb
+D:\Works\Repos\RepveUOW\RepveUOW.Data.Model\obj\Debug\RepveUOW.Data.Model.csprojAssemblyReference.cache
+D:\Works\Repos\RepveUOW\RepveUOW.Data.Model\obj\Debug\RepveUOW.Data.Model.csproj.CoreCompileInputs.cache
+D:\Works\Repos\RepveUOW\RepveUOW.Data.Model\obj\Debug\RepveUOW.Data.Model.dll
+D:\Works\Repos\RepveUOW\RepveUOW.Data.Model\obj\Debug\RepveUOW.Data.Model.pdb
